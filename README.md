@@ -1,8 +1,6 @@
 # Social Media Addiction Analysis
 
 ## Overview
-This project analyzes data related to social media addiction among students. The analysis includes descriptive statistics, visualization, group comparisons, association tests, and correlation analysis.
-## Overview
 This project investigates the impact of social media addiction on students by performing statistical analysis using R. It includes:
   Descriptive statistics
 Data visualization Group comparison (e.g., gender, academic level)
