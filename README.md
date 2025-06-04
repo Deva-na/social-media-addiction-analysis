@@ -11,7 +11,7 @@ Correlation analysis (Pearson)
 
 
 ## Dataset
-The dataset used is from [Kaggle: Students Social Media Addiction](https://www.kaggle.com/dataset-link).  
+The dataset used is from [Kaggle: Students Social Media Addiction](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships).  
 **Note:** The dataset file `Students Social Media Addiction.csv` is **not included** in this repository due to size and licensing restrictions.
 
 To run the code, please download the dataset from Kaggle and place the CSV file in the project folder.
